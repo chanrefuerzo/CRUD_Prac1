@@ -1,0 +1,16 @@
+.chart{
+    flex: 4;
+    box-shadow: 0px 0px 21px 12px rgba(0,0,0,0.24);
+    -webkit-box-shadow: 0px 0px 21px 12px rgba(0,0,0,0.24);
+    -moz-box-shadow: 0px 0px 21px 12px rgba(0,0,0,0.24);
+    padding: 10px; 
+    color: gray;
+
+    .title{
+        margin-bottom: 20px;
+    }
+
+    .chatGrid{
+        stroke: lightgrey ;
+    }
+}
